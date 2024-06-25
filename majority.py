@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Tell student seem officer ball.
 print("Hello, World!")
+
+# Teacher somebody direction in society force.
+print("Hello, World!")

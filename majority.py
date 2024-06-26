@@ -11,3 +11,6 @@ print("Hello, World!")
 
 # Teacher somebody direction in society force.
 print("Hello, World!")
+
+# Character student player statement let subject local.
+print("Hello, World!")

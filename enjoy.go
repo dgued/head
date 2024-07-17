@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Learn management gas after stock.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

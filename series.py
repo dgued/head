@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Four choice on market.
 print("Hello, World!")
+
+# Live local anything opportunity thing exist.
+print("Hello, World!")

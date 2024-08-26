@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Personal structure nature her real.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

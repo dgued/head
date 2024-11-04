@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Strong support spring bed finish send.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

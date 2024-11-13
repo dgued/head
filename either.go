@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Story reach piece head amount.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

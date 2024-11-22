@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # Report rest even option.
 console.log("Hello, World!");
+
+# Fine national with base system character.
+console.log("Hello, World!");

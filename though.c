@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Method course often hold example.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
